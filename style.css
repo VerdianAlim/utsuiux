@@ -1,0 +1,1091 @@
+.uts-ui-ux {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .uts-ui-ux .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1280px;
+    height: 720px;
+    position: relative;
+  }
+  
+  .uts-ui-ux .atas {
+    position: absolute;
+    width: 1306px;
+    height: 30px;
+    top: 0;
+    left: -14px;
+  }
+  
+  .uts-ui-ux .navbar {
+    position: relative;
+    width: 1294px;
+    height: 30px;
+    background-color: #d9d9d9;
+  }
+  
+  .uts-ui-ux .text-wrapper {
+    position: absolute;
+    top: 7px;
+    left: 724px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-2 {
+    position: absolute;
+    top: 7px;
+    left: 855px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .image {
+    position: absolute;
+    width: 16px;
+    height: 22px;
+    top: 4px;
+    left: 24px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .gratis-ongkir-banyak {
+    position: absolute;
+    top: -3px;
+    left: 49px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .span {
+    font-weight: 700;
+  }
+  
+  .uts-ui-ux .text-wrapper-3 {
+    font-family: "Inter-Regular", Helvetica;
+  }
+  
+  .uts-ui-ux .text-wrapper-4 {
+    position: absolute;
+    top: 7px;
+    left: 972px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-5 {
+    top: 7px;
+    left: 1122px;
+    font-size: 12px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-6 {
+    position: absolute;
+    top: 7px;
+    left: 1184px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .group {
+    position: absolute;
+    width: 1380px;
+    height: 86px;
+    top: 30px;
+    left: -48px;
+  }
+  
+  .uts-ui-ux .navbar-2 {
+    position: relative;
+    width: 1362px;
+    height: 86px;
+    background-color: #ffffff;
+    border: 0.3px solid;
+    border-color: #00000038;
+  }
+  
+  .uts-ui-ux .text-wrapper-7 {
+    width: 60px;
+    top: 33px;
+    left: 241px;
+    font-size: 15px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .overlap {
+    position: absolute;
+    width: 658px;
+    height: 28px;
+    top: 27px;
+    left: 316px;
+    background-color: #d9d9d9;
+    border-radius: 7px;
+  }
+  
+  .uts-ui-ux .text-wrapper-8 {
+    position: absolute;
+    width: 99px;
+    top: 7px;
+    left: 46px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #676060;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .frame {
+    position: absolute;
+    width: 21px;
+    height: 19px;
+    top: 5px;
+    left: 10px;
+  }
+  
+  .uts-ui-ux .img {
+    position: absolute;
+    width: 29px;
+    height: 27px;
+    top: 27px;
+    left: 1021px;
+  }
+  
+  .uts-ui-ux .line {
+    width: 1px;
+    height: 32px;
+    top: 24px;
+    left: 1076px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .masuk {
+    position: absolute;
+    width: 84px;
+    height: 30px;
+    top: 26px;
+    left: 1100px;
+  }
+
+  .uts-ui-ux .overlap1 {
+   position: relative;
+   width: 84px;
+   height: 28px;
+   background-color: #bb008900;
+   border-radius: 5px;
+   border: 2px solid;
+   border-color: #0ad70ad9;
+  }
+  .uts-ui-ux .daftar {
+    position: absolute;
+    width: 86px;
+    height: 28px;
+    top: 26px;
+    left: 1211px;
+  }
+  .uts-ui-ux .textmasuk {
+    position: absolute;
+    top: 4px;
+    left: 22px;
+    -webkit-text-stroke: 1px #ffffff33;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .overlap-group {
+    position: relative;
+    width: 84px;
+    height: 28px;
+    background-color: #0cbb00;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #ffffff33;
+  }
+  
+  .uts-ui-ux .text-wrapper-9 {
+    position: absolute;
+    top: 4px;
+    left: 22px;
+    -webkit-text-stroke: 1px #ffffff33;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-10 {
+    position: absolute;
+    width: 84px;
+    top: 66px;
+    left: 318px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-11 {
+    position: absolute;
+    width: 67px;
+    top: 66px;
+    left: 416px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-12 {
+    position: absolute;
+    width: 66px;
+    top: 66px;
+    left: 497px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-13 {
+    position: absolute;
+    width: 52px;
+    top: 66px;
+    left: 577px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-14 {
+    position: absolute;
+    width: 38px;
+    top: 66px;
+    left: 643px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-15 {
+    position: absolute;
+    width: 66px;
+    top: 66px;
+    left: 695px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .group-wrapper {
+    position: absolute;
+    width: 19px;
+    height: 17px;
+    top: 62px;
+    left: 1069px;
+  }
+  
+  .uts-ui-ux .group-2 {
+    position: absolute;
+    width: 14px;
+    height: 15px;
+    top: 4px;
+    left: 8px;
+  }
+  
+  .uts-ui-ux .dikirim-ke-ketintang {
+    position: absolute;
+    width: 146px;
+    top: 55px;
+    left: 1095px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-16 {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+  }
+  
+  .uts-ui-ux .text-wrapper-17 {
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+  }
+  
+  .uts-ui-ux .frame-2 {
+    position: absolute;
+    width: 30px;
+    height: 16px;
+    top: 68px;
+    left: 1244px;
+  }
+  
+  .uts-ui-ux .tokped {
+    position: absolute;
+    width: 139px;
+    height: auto;
+    top: 26px;
+    left: 70px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .overlap-2 {
+    position: absolute;
+    width: 965px;
+    height: 431px;
+    top: 134px;
+    left: 134px;
+  }
+  
+  .uts-ui-ux .display {
+    position: absolute;
+    width: 753px;
+    height: 431px;
+    top: 0;
+    left: 0;
+  }
+  
+  .uts-ui-ux .vector {
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    top: -3px;
+    left: 170px;
+  }
+  
+  .uts-ui-ux .komputer-laptop {
+    position: absolute;
+    top: 0;
+    left: 59px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0ec441;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .vector-2 {
+    left: 39px;
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    top: -3px;
+  }
+  
+  .uts-ui-ux .text-wrapper-18 {
+    position: absolute;
+    top: 0;
+    left: 6px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0ec441;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .vector-3 {
+    left: 230px;
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    top: -3px;
+  }
+  
+  .uts-ui-ux .text-wrapper-19 {
+    position: absolute;
+    top: 0;
+    left: 189px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0ec441;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .vector-4 {
+    left: 300px;
+    position: absolute;
+    width: 18px;
+    height: 20px;
+    top: -3px;
+  }
+  
+  .uts-ui-ux .text-wrapper-20 {
+    position: absolute;
+    top: 0;
+    left: 249px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0ec441;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-21 {
+    position: absolute;
+    top: 0;
+    left: 323px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .element {
+    width: 302px;
+    height: 302px;
+    top: 28px;
+    position: absolute;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .SPESIAL-BUNDLING {
+    position: absolute;
+    top: 66px;
+    left: 325px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .terjual {
+    position: absolute;
+    top: 162px;
+    left: 325px;
+    opacity: 0.7;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-22 {
+    position: absolute;
+    top: 185px;
+    left: 325px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .star {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 162px;
+    left: 385px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .text-wrapper-23 {
+    position: absolute;
+    top: 162px;
+    left: 399px;
+    opacity: 0.31;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-24 {
+    position: absolute;
+    top: 130px;
+    left: 325px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-25 {
+    position: absolute;
+    top: 185px;
+    left: 390px;
+    opacity: 0.31;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .div-wrapper {
+    position: absolute;
+    width: 72px;
+    height: 23px;
+    top: 209px;
+    left: 325px;
+    background-color: #d9d9d9;
+    border-radius: 8px;
+  }
+  
+  .uts-ui-ux .text-wrapper-26 {
+    position: absolute;
+    top: 5px;
+    left: 4px;
+    opacity: 0.41;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .overlap-3 {
+    position: absolute;
+    width: 52px;
+    height: 23px;
+    top: 209px;
+    left: 407px;
+    background-color: #d9d9d9;
+    border-radius: 8px;
+  }
+  
+  .uts-ui-ux .text-wrapper-27 {
+    position: absolute;
+    top: 5px;
+    left: 11px;
+    opacity: 0.41;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-28 {
+    position: absolute;
+    top: 261px;
+    left: 325px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .text-wrapper-29 {
+    top: 261px;
+    left: 459px;
+    opacity: 0.4;
+    font-size: 11px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .overlap-4 {
+    position: absolute;
+    width: 52px;
+    height: 23px;
+    top: 285px;
+    left: 325px;
+    background-color: #d9d9d9;
+    border-radius: 8px;
+  }
+  
+  .uts-ui-ux .text-wrapper-30 {
+    position: absolute;
+    top: 5px;
+    left: 7px;
+    opacity: 0.41;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .overlap-5 {
+    position: absolute;
+    width: 52px;
+    height: 23px;
+    top: 285px;
+    left: 389px;
+    background-color: #d9d9d9;
+    border-radius: 8px;
+  }
+  
+  .uts-ui-ux .text-wrapper-31 {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    opacity: 0.41;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .element-2 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 337px;
+    left: 64px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .element-3 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 337px;
+    left: 128px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .element-4 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 337px;
+    left: 192px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .element-5 {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 337px;
+    left: 256px;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .element-6 {
+    width: 50px;
+    height: 50px;
+    top: 337px;
+    position: absolute;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .line-2 {
+    width: 378px;
+    height: 2px;
+    top: 328px;
+    left: 325px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .line-3 {
+    width: 378px;
+    height: 2px;
+    top: 176px;
+    left: 325px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .text-wrapper-32 {
+    position: absolute;
+    top: 338px;
+    left: 339px;
+    font-family: "Inter-SemiBold", Helvetica;
+    border-bottom: solid #0cbb00;
+    font-weight: 600;
+    color: #0ec441;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-33 {
+    position: absolute;
+    top: 338px;
+    left: 406px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .line-4 {
+    width: 55px;
+    height: 1px;
+    top: 361px;
+    left: 328px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .text-wrapper-34 {
+    position: absolute;
+    top: 376px;
+    left: 328px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-35 {
+    position: absolute;
+    top: 376px;
+    left: 375px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-36 {
+    position: absolute;
+    top: 396px;
+    left: 328px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-37 {
+    top: 396px;
+    left: 428px;
+    font-size: 12px;
+    position: absolute;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-38 {
+    position: absolute;
+    top: 416px;
+    left: 328px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-39 {
+    position: absolute;
+    top: 416px;
+    left: 378px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0ec441;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .JUMLAH {
+    position: absolute;
+    width: 242px;
+    height: 144px;
+    top: 69px;
+    left: 723px;
+  }
+  
+  .uts-ui-ux .overlap-6 {
+    position: relative;
+    width: 224px;
+    height: 144px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #00000066;
+  }
+  
+  .uts-ui-ux .text-wrapper-40 {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .overlap-group-2 {
+    position: absolute;
+    width: 74px;
+    height: 21px;
+    top: 41px;
+    left: 16px;
+    border-radius: 7px;
+    border: 1px solid;
+    border-color: #00000066;
+  }
+  
+  .uts-ui-ux .line-5 {
+    width: 8px;
+    height: 1px;
+    top: 9px;
+    left: 12px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .text-wrapper-41 {
+    position: absolute;
+    top: 2px;
+    left: 33px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-42 {
+    position: absolute;
+    top: 1px;
+    left: 57px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-43 {
+    position: absolute;
+    top: 43px;
+    left: 96px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-44 {
+    position: absolute;
+    top: 43px;
+    left: 126px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .text-wrapper-45 {
+    position: absolute;
+    top: 88px;
+    left: 15px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #00000066;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .uts-ui-ux .frame-3 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 117px;
+    left: 10px;
+  }
+  
+  .uts-ui-ux .text-wrapper-46 {
+    position: absolute;
+    top: 115px;
+    left: 30px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .line-6 {
+    width: 1px;
+    height: 13px;
+    top: 117px;
+    left: 66px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .line-7 {
+    width: 1px;
+    height: 13px;
+    top: 117px;
+    left: 150px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .uts-ui-ux .frame-4 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 115px;
+    left: 73px;
+  }
+  
+  .uts-ui-ux .text-wrapper-47 {
+    position: absolute;
+    top: 115px;
+    left: 93px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .uts-ui-ux .frame-5 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 115px;
+    left: 157px;
+  }
+  
+  .uts-ui-ux .text-wrapper-48 {
+    position: absolute;
+    top: 115px;
+    left: 179px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #121111;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
